@@ -1,0 +1,12 @@
+.TodoList{
+border-top: solid 8px #6666dd;
+background: linear-gradient(#68EACC 0%, #487be8 100%);
+text-align: center;
+margin: 0;
+padding: 0;
+}
+ul{
+justify-content: center;
+list-style; none;
+padding: 0;
+}
